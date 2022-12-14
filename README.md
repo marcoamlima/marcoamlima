@@ -1,11 +1,11 @@
-<h1 align="center"> Olá pessoa <img src="https://raw.githubusercontent.com/parth-27/parth-27/master/Hi.gif" height="50" width="50"> </h1>
+<h1 align="center"> Olá ser humano <img src="https://raw.githubusercontent.com/parth-27/parth-27/master/Hi.gif" height="50" width="50"> </h1>
 
-<p align="center"><samp> Eu sou o Marco, sou formado em engenharia de computação e atualmente sou desenvolvedor full-stack na 123 Milhas . </samp></p>
+<p align="center"><samp> Eu sou o Marco, sou formado em engenharia de computação e atualmente sou desenvolvedor full-stack na 123 Milhas. </samp></p>
 
 <p align="center" style="background-color:white;">
- <a href="https://www.linkedin.com/in/marcoamlima"><img alt="Marco's Linkedin" width="22px" src="https://raw.githubusercontent.com/joaovvrodrigues/joaovvrodrigues/main/assets/linkedin.png" /></a>&nbsp;&nbsp;
- <a href="https://instagram.com/japadocontra"><img alt="Joao Vitor's Instagram" width="22px" src="https://raw.githubusercontent.com/joaovvrodrigues/joaovvrodrigues/main/assets/instagram.png" /></a>&nbsp;&nbsp;
-<a href="https://github.com/joaovvrodrigues"><img alt="Joao Vitor's Github" width="22px" src="https://raw.githubusercontent.com/joaovvrodrigues/joaovvrodrigues/main/assets/github.png" /></a>&nbsp;&nbsp;
+ <a href="https://www.linkedin.com/in/marcoamlima"><img alt="Marco's Linkedin" width="22px" src="https://github.com/marcoamlima/MarcoAurelio/blob/main/linkedin.png" /></a>&nbsp;&nbsp;
+ <a href="https://instagram.com/marcoamlima"><img alt="Marco's Instagram" width="22px" src="https://github.com/marcoamlima/MarcoAurelio/blob/main/instagram.png" /></a>&nbsp;&nbsp;
+<a href="https://github.com/marcoamlima"><img alt="Marco's Github" width="22px" src="https://github.com/marcoamlima/MarcoAurelio/blob/main/github.png" /></a>&nbsp;&nbsp;
 
  
  
@@ -14,15 +14,22 @@
 
 ## 💻 Tecnologias
 <p align="center">
-<img src="https://img.shields.io/badge/dart-%23007ACC.svg?&style=for-the-badge&logo=dart&logoColor=white" height="25"/>
-<img src="https://img.shields.io/badge/flutter%20-%23007ACC.svg?&style=for-the-badge&logo=flutter&logoColor=white" height="25"/>
- <img src="https://img.shields.io/badge/Firebase-%23F7DF1E.svg?&style=for-the-badge&logo=firebase&logoColor=black" height="25"/>
-<img src="https://img.shields.io/badge/python%20-%2343853D.svg?&style=for-the-badge&logo=python&logoColor=white" height="25"/>
-<img src="https://img.shields.io/badge/Visual%20Studio%20Code-0089D6?logo=visual-studio-code&logoColor=white&style=for-the-badge" height="25"/>
+<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" height="25"/>
+<img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" height="25"/>
+<img src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white" height="25"/>
+<br>
+<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" height="25"/>
+ <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" height="25"/>
+ <img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" height="25"/>
+ <br>
+<img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" height="25"/>
+<img src="https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" height="25"/>
+<br>
+<img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" height="25"/>
 </p>
 
 ## ⭐ GitHub Stats
 <p align="center">
-<a href="https://github.com/joaovvrodrigues">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=joaovvrodrigues&count_private=true&include_all_commits=true&show_icons=true&theme=onedark&line_height=27&v=5" alt="Joao Vitor's GitHub Stats" /> </a> 
+<a href="https://github.com/marcoamlima">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=marcoamlima&count_private=true&include_all_commits=true&show_icons=true&theme=onedark&line_height=27&v=5" alt="GitHub Stats" /> </a> 
 </p> 

@@ -28,8 +28,9 @@
 <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" height="25"/>
 </p>
 
+<!--
 ## ⭐ GitHub Stats
-<p align="center">
+ <p align="center">
 <a href="https://github.com/marcoamlima">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=marcoamlima&count_private=true&include_all_commits=true&show_icons=true&theme=onedark&line_height=27&v=5" alt="GitHub Stats" /> </a> 
-</p> 
+</p> -->

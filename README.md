@@ -3,9 +3,9 @@
 <p align="center"><samp> Eu sou o Marco, sou formado em engenharia de computação e atualmente sou desenvolvedor full-stack na 123 Milhas. </samp></p>
 
 <p align="center" style="background-color:white;">
- <a href="https://www.linkedin.com/in/marcoamlima"><img alt="Marco's Linkedin" width="22px" src="https://github.com/marcoamlima/MarcoAurelio/blob/main/linkedin.png" /></a>&nbsp;&nbsp;
- <a href="https://instagram.com/marcoamlima"><img alt="Marco's Instagram" width="22px" src="https://github.com/marcoamlima/MarcoAurelio/blob/main/instagram.png" /></a>&nbsp;&nbsp;
-<a href="https://github.com/marcoamlima"><img alt="Marco's Github" width="22px" src="https://github.com/marcoamlima/MarcoAurelio/blob/main/github.png" /></a>&nbsp;&nbsp;
+ <a href="https://www.linkedin.com/in/marcoamlima" target="_blank"><img alt="Marco's Linkedin" width="22px" src="https://github.com/marcoamlima/MarcoAurelio/blob/main/linkedin.png" /></a>&nbsp;&nbsp;
+ <a href="https://instagram.com/marcoamlima" target="_blank"><img alt="Marco's Instagram" width="22px" src="https://github.com/marcoamlima/MarcoAurelio/blob/main/instagram.png" /></a>&nbsp;&nbsp;
+<a href="https://github.com/marcoamlima" target="_blank"><img alt="Marco's Github" width="22px" src="https://github.com/marcoamlima/MarcoAurelio/blob/main/github.png" /></a>&nbsp;&nbsp;
 
  
  

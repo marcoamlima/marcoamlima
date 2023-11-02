@@ -1,6 +1,6 @@
 <h1 align="center"> Olá ser humano <img src="https://raw.githubusercontent.com/parth-27/parth-27/master/Hi.gif" height="50" width="50"> </h1>
 
-<p align="center"><samp> Eu sou o Marco, sou formado em engenharia de computação e atualmente sou analista de desenvolvimento de sistemas na Engetron </samp></p>
+<p align="center"><samp> Meu nome é Marco, sou formado em engenharia de computação e atualmente sou analista de desenvolvimento de sistemas na Engetron </samp></p>
 
 <p align="center">
  <a href="https://www.linkedin.com/in/marcoamlima" target="_blank" rel="noopener noreferrer">
